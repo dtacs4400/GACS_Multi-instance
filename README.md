@@ -80,12 +80,12 @@ L2TP Tunnel L2TP Tunnel
 
 ```bash
 # 1. Clone repository (free path)
-git clone https://github.com/safrinnetwork/GACS-Farm.git /home/docker/genieacs
+git clone https://github.com/dtacs4400/GACS_Multi-instance.git /home/docker/genieacs
 cd /home/docker/genieacs/manager
 
 # 2. Run the manager (must be root)
-chmod +x mostech-gacs.sh
-sudo ./mostech-gacs.sh
+chmod +x agnix_gacs.sh
+sudo ./agnix_gacs.sh
 ```
 
 > Free path clone, auto-detect location script. Examples: `/opt/genieacs`, `/root/gacs`, etc.
@@ -116,13 +116,13 @@ Follow this sequence in the manager:
 
 ```bash
 cd /home/docker/genieacs/manager
-sudo ./mostech-gacs.sh
+sudo ./agnix_gacs.sh
 ```
 
 ### Play Menu
 ```
 ╔═════════════════════ ═════════════════════╗
-║ MOSTECH GACS MANAGER v1.2 ║
+║ AGNIX GACS MANAGER v1.2 ║
 ║ GenieACS Multi-Instance Orchestrator ║
 ╚═════════════════════ ═════════════════════╝ 
 
