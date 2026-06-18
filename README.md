@@ -1,4 +1,4 @@
-# 🚜 GACS_Multi-instance — GenieACS Multi-Instance
+# 🚜 AGNIX_GACS_Multi-instance — GenieACS Multi-Instance
 
 CLI manager to deploy, monitor, and manage **multi-instance GenieACS (TR-069 ACS)** on a single VPS, with L2TP VPN integration for local ONU connectivity.
 
